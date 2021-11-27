@@ -74,3 +74,11 @@ button:hover {
   height: 35px;
   border-radius: 5px;
 }
+
+.form {
+  font-size: 18px;
+}
+.input-form {
+  height: 35px;
+  border-radius: 5px;
+}
